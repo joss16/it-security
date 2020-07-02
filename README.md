@@ -12,6 +12,7 @@ https://www.activecountermeasures.com/
 https://atomicredteam.io/
 https://github.com/ION28/BLUESPAWN (BLUESPAWN)
 https://www.ssllabs.com/ssltest/
+https://www.commandlinefu.com/commands/browse
 
 
 Training resources
